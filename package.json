@@ -1,0 +1,20 @@
+{
+  "name": "react-component-cli",
+  "version": "1.0.0",
+  "description": "create react component and service through command line",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "react"
+  ],
+  "author": "Yingrong Zhao",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "commander": "^2.11.0",
+    "mkdirp": "^0.5.1"
+  }
+}
